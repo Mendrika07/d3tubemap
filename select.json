@@ -1,0 +1,188 @@
+[
+    {
+      "id": 370,
+      "nom_arret": "TERMINUS MORONDAVA",
+      "lon": 47.466001,
+      "lat": -18.852607
+    },
+    {
+      "id": 46,
+      "nom_arret": "ANDRANORO REFUGE",
+      "lon": 47.473006,
+      "lat": -18.852907
+    },
+    {
+      "id": 45,
+      "nom_arret": "ANDRANORO PLAQUE",
+      "lon": 47.473404,
+      "lat": -18.850003
+    },
+    {
+      "id": 28,
+      "nom_arret": "AMBOHIBAO TSENA",
+      "lon": 47.473788,
+      "lat": -18.848383
+    },
+    {
+      "id": 411,
+      "nom_arret": "AMBOHIBAO",
+      "lon": 47.47385396645099,
+      "lat": -18.84614273964169
+    },
+    {
+      "id": 27,
+      "nom_arret": "SHOP TELMA AMBOHIBAO",
+      "lon": 47.474672,
+      "lat": -18.845901
+    },
+    {
+      "id": 195,
+      "nom_arret": "ARRET VAVAHADY ANDRANOMENA",
+      "lon": 47.478675,
+      "lat": -18.851006
+    },
+    {
+      "id": 84,
+      "nom_arret": "ARRET 194 ANDRANOMENA",
+      "lon": 47.480095,
+      "lat": -18.854583
+    },
+    {
+      "id": 278,
+      "nom_arret": "MARKET AMBOHIVAHY",
+      "lon": 47.482929,
+      "lat": -18.857658
+    },
+    {
+      "id": 372,
+      "nom_arret": "TETEZANA AMBODIMITA",
+      "lon": 47.484795,
+      "lat": -18.859947
+    },
+    {
+      "id": 255,
+      "nom_arret": "JIRAMA AMBODIMITA",
+      "lon": 47.486269,
+      "lat": -18.865772
+    },
+    {
+      "id": 62,
+      "nom_arret": "ANOSISOA TANIMALALAKA",
+      "lon": 47.48884408904631,
+      "lat": -18.86822985362345
+    },
+    {
+      "id": 61,
+      "nom_arret": "ANOSISOA",
+      "lon": 47.491608,
+      "lat": -18.869376
+    },
+    {
+      "id": 152,
+      "nom_arret": "ARRET PAOMPY AMBOHIMANARINA",
+      "lon": 47.493589,
+      "lat": -18.87022
+    },
+    {
+      "id": 29,
+      "nom_arret": "AMBOHIMANANDRAY",
+      "lon": 47.494926,
+      "lat": -18.871321
+    },
+    {
+      "id": 68,
+      "nom_arret": "ANTANETY GARAGE",
+      "lon": 47.497532,
+      "lat": -18.872608
+    },
+    {
+      "id": 197,
+      "nom_arret": "ARRET ZAORIDIRA ANTANETY",
+      "lon": 47.498873,
+      "lat": -18.872908
+    },
+    {
+      "id": 298,
+      "nom_arret": "PHARMACIE AMBOHIMANARINA",
+      "lon": 47.499853,
+      "lat": -18.873339
+    },
+    {
+      "id": 193,
+      "nom_arret": "ARRET TSENA AMBOHIMANARINA",
+      "lon": 47.501592,
+      "lat": -18.874731
+    },
+    {
+      "id": 145,
+      "nom_arret": "ARRET MANGA ANOSIVAVAKA",
+      "lon": 47.502836,
+      "lat": -18.875911
+    },
+    {
+      "id": 30,
+      "nom_arret": "AMBOHIMANARINA MANGA",
+      "lon": 47.5034476479349,
+      "lat": -18.877007805222753
+    },
+    {
+      "id": 41,
+      "nom_arret": "ANDRAHARO BASSIN",
+      "lon": 47.505024,
+      "lat": -18.879341
+    },
+    {
+      "id": 42,
+      "nom_arret": "ANDRAHARO CITERNE",
+      "lon": 47.506451,
+      "lat": -18.881229
+    },
+    {
+      "id": 8,
+      "nom_arret": "ABRIBUS GALAXY ANDRAHARO",
+      "lon": 47.507225,
+      "lat": -18.882316
+    },
+    {
+      "id": 43,
+      "nom_arret": "ANDRAHARO FLOREAL",
+      "lon": 47.508624,
+      "lat": -18.884164
+    },
+    {
+      "id": 416,
+      "nom_arret": "ANDRAHARO TOTAL",
+      "lon": 47.510037,
+      "lat": -18.88615
+    },
+    {
+      "id": 182,
+      "nom_arret": "ARRET STAR ANDRAHARO",
+      "lon": 47.511995,
+      "lat": -18.888669
+    },
+    {
+      "id": 119,
+      "nom_arret": "ARRET DALLE ANKAZOMANGA",
+      "lon": 47.514837,
+      "lat": -18.892514
+    },
+    {
+      "id": 153,
+      "nom_arret": "ARRET PARAKY ANKAZOMANGA",
+      "lon": 47.516327,
+      "lat": -18.894672
+    },
+    {
+      "id": 138,
+      "nom_arret": "ARRET IMGAM ANTANIMENA",
+      "lon": 47.518449,
+      "lat": -18.897681
+    },
+    {
+      "id": 160,
+      "nom_arret": "ARRET PLAZZA SOARANO",
+      "lon": 47.521593,
+      "lat": -18.904157
+    }
+  ]
